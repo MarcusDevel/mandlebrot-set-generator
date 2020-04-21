@@ -1,0 +1,15 @@
+# sbt specific
+.cache
+.cache-main
+.cache-tests
+.history
+.lib/
+.idea/
+.idea/modules/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+© 2020 GitHub, Inc.
